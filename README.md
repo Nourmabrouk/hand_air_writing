@@ -1,4 +1,4 @@
-#  Air Writing System (Virtual Canvas)
+# Hand Air Writing System (Virtual Canvas)
 ##  Overview
 
 This project is a **real-time Air Writing system** that allows users to write in the air using their fingers.
